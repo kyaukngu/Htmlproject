@@ -196,10 +196,7 @@ li a{
     background-color: black;
     text-align: center;
     color: #fff;
-    flex-basis: 100%;
-    max-width: 100%;
-    
-    
+    padding: 10px;
 }
 
 
@@ -233,11 +230,6 @@ li a{
         flex-wrap: wrap;
         flex-direction: column;
     }
-    /* .contact{
-        padding-top: 290%;
-
-    } */
-    
     .contact-img{
         flex-basis: 100%;
         max-width: 100%;
@@ -255,7 +247,7 @@ li a{
     }
     .footer{
         flex-direction: column;
-        padding-bottom: 22px;
+        padding-bottom: 42px;
     }
     .copy-right{
         position: fixed;
